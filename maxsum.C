@@ -19,6 +19,6 @@ int main()
             if(t>max) max=t;
         }
     }
-    printf("最大字段和为:%d\n",max);
+    printf("最大子段和为:%d\n",max);
     return 0;
 }
